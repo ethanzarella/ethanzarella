@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * 🌱 Interested in AI and cybersecurity
-* 📚 Currently studying cybersecurity, shellscript, Linux
+* 📚 Currently studying AI/LLM security, shellscript, Linux
 * 🎓 Computer science bachelor holder from SFSU
 * ⚡ Fun fact: I love bouldering 🧗‍♂️
 
